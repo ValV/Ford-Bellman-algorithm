@@ -1,0 +1,36 @@
+digraph ford_bellman {
+// Graph options
+graph [
+charset = "UTF-8",
+rankdir = LR,
+splines = spline
+];
+
+node [
+style = "filled"
+];
+
+// Definition: vertices
+a [fillcolor = yellow];
+b;
+c;
+d [fillcolor = green];
+e;
+f;
+g;
+
+// Definition: edges
+a:n -> b [label = "5.0"];
+a:se -> c:s [label = "4.0"];
+a -> e:w [label = "3.0"];
+
+b -> f:nw [label = "-1.0"];
+
+c:n -> g:n [label = "3.0"];
+
+d:w -> a:s [label = "4.5"];
+
+e:e -> c:w [label = "7.0"];
+e:se -> d:n [label = "5.0"];
+e:n -> f:sw [label = "6.0"];
+}
