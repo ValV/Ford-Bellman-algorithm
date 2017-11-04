@@ -5,5 +5,5 @@ A collection of algorithms used by graph theory implemented in Python using IPyt
 ### Algorithms
 
 * [Ford-Bellman algorithm](Ford-Bellman-algorithm)
-* [Roberts-Flores algorithm](Roberts-Flores algorithm)
+* [Roberts-Flores algorithm](Roberts-Flores-algorithm)
 
