@@ -7,34 +7,34 @@ Some graph algorithms, grouped by problem:
 
 * **Minimal path**
 
-  - [ ] [Wave algorithm](.)
-  - [x] [Ford-Bellman algorithm](Ford-Bellman-algorithm)
+  - [ ] Wave algorithm
+  - [x] Ford-Bellman algorithm ([Pyhon](python/Ford-Bellman-algorithm))
 
 * **Cycles**
 
-  - [x] [Roberts-Flores algorithm](Roberts-Flores-algorithm)
+  - [x] Roberts-Flores algorithm ([Python](python/Roberts-Flores-algorithm))
 
 * **Minimum spanning tree (MST)**
 
-  - [ ] [Jarnik-Prim algorithm](.)
-  - [ ] [Kruskal's algorithm](.)
+  - [ ] Jarnik-Prim algorithm
+  - [ ] Kruskal's algorithm
 
 * **Graph optimizations**
 
-  - [ ] [Magu-Weisman algorithm](.)
-  - [ ] [Minimal graph coloring based on Magu's method](.)
-  - [ ] [Heuristic graph coloring algorithm](.)
+  - [ ] Magu-Weisman algorithm
+  - [ ] Minimal graph coloring based on Magu's method
+  - [ ] Heuristic graph coloring algorithm
 
 * **Bipartite graphs**
 
-  - [ ] [Hungarian algorithm](.)
+  - [ ] Hungarian algorithm
 
 * **Graph isomorphism and homomorphism**
 
-  - [ ] [Isomorphism detection algorithm](.)
+  - [ ] Isomorphism detection algorithm
 
 * **Planar graphs**
 
-  - [ ] [Gamma-algorithm](.)
+  - [ ] Gamma-algorithm
 
 ###### To be continued...
