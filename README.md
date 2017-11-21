@@ -7,7 +7,7 @@ Some graph algorithms, grouped by problem:
 
 * **Graph connectivity**
 
-  - [x] Breadth First Search algorithm
+  - [x] Breadth First Search algorithm ([C++](c++/breadth-first-search))
   - [ ] Depth First Search algorithm
 
 * **Minimal path**
