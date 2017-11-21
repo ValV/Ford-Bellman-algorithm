@@ -1,45 +1,45 @@
 # Graph algorithms
 
-A collection of algorithms used by graph theory implemented in Python using IPython Notebook.
+A collection of algorithms used by graph theory, implemented in Python and C++.
 
-### Algorithms
-Some graph algorithms, grouped by problem:
+## Algorithms
+Some graph algorithms, grouped by problem.
 
-* **Graph connectivity**
+### Graph connectivity
 
-  - [x] Breadth First Search algorithm ([C++](c++/breadth-first-search))
-  - [ ] Depth First Search algorithm
+- [x] Breadth First Search algorithm ([C++](c++/breadth-first-search))
+- [ ] Depth First Search algorithm
 
-* **Minimal path**
+### Minimal path
 
-  - [ ] Wave algorithm
-  - [x] Ford-Bellman algorithm ([Pyhon](python/Ford-Bellman-algorithm))
+- [ ] Wave algorithm
+- [x] Ford-Bellman algorithm ([Pyhon](python/Ford-Bellman-algorithm))
 
-* **Cycles**
+### Cycles
 
-  - [x] Roberts-Flores algorithm ([Python](python/Roberts-Flores-algorithm))
+- [x] Roberts-Flores algorithm ([Python](python/Roberts-Flores-algorithm))
 
-* **Minimum spanning tree (MST)**
+### Minimum spanning tree (MST)
 
-  - [ ] Jarnik-Prim algorithm
-  - [ ] Kruskal's algorithm
+- [ ] Jarnik-Prim algorithm
+- [ ] Kruskal's algorithm
 
-* **Graph optimizations**
+### Graph optimizations
 
-  - [ ] Magu-Weisman algorithm
-  - [ ] Minimal graph coloring based on Magu's method
-  - [ ] Heuristic graph coloring algorithm
+- [ ] Magu-Weisman algorithm
+- [ ] Minimal graph coloring based on Magu's method
+- [ ] Heuristic graph coloring algorithm
 
-* **Bipartite graphs**
+### Bipartite graphs
 
-  - [ ] Hungarian algorithm
+- [ ] Hungarian algorithm
 
-* **Graph isomorphism and homomorphism**
+### Graph isomorphism and homomorphism
 
-  - [ ] Isomorphism detection algorithm
+- [ ] Isomorphism detection algorithm
 
-* **Planar graphs**
+### Planar graphs
 
-  - [ ] Gamma-algorithm
+- [ ] Gamma-algorithm
 
 ###### To be continued...
