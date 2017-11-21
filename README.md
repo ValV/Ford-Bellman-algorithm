@@ -5,6 +5,11 @@ A collection of algorithms used by graph theory implemented in Python using IPyt
 ### Algorithms
 Some graph algorithms, grouped by problem:
 
+* **Graph connectivity**
+
+  - [x] Breadth First Search algorithm
+  - [ ] Depth First Search algorithm
+
 * **Minimal path**
 
   - [ ] Wave algorithm
